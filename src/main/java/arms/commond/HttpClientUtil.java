@@ -11,7 +11,5 @@ public class HttpClientUtil {
 
     public void sendDataToApi(ApiResultVo apiResultVo) throws Exception{
 
-
-
     }
 }
